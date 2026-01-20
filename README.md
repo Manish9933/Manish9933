@@ -1,9 +1,26 @@
-<h1 align="center">Hi 👋, I'm Manish Kangra</h1>
-<h3 align="center">Full Stack Developer | AI Marketplace Builder | India 🇮🇳</h3>
+<!-- ===== Premium Animated Header ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:22c55e&height=260&section=header&text=Manish%20Kangra&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20•%20AI%20Marketplace%20Builder%20•%20SaaS%20Engineer%20🇮🇳&descAlignY=72" />
+</p>
+
+<!-- ===== Optional Glass Photo Card ===== -->
+<!-- Upload profile.jpg in repo root to enable -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manish9933/manish9933/main/profile.jpg" width="140"
+       style="border-radius:18px; box-shadow:0 0 25px rgba(0,234,255,.6);" />
+</p>
+
+<!-- ===== Animated Typing Intro ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Kangra;Full+Stack+Developer;AI+Marketplace+Builder;SaaS+Engineer+from+India" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <a href="https://github.com/manish9933">
+    <img src="https://komarev.com/ghpvc/?username=manish9933&label=Profile%20Views&color=0ea5e9&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-kangra-a53637288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Manish%20Kangra-0A66C2?style=flat&logo=linkedin" />
   </a>
 </p>
 
@@ -11,44 +28,33 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **GigMatch-AI** – an AI powered freelancing platform  
-- 🌱 Working with **Next.js 16, React 19, Node.js, AI integrations**
-- 👯 Looking to collaborate on **SaaS & AI products**
-- 💬 Ask me about **Full Stack Development, System Design, Startups**
-- ⚡ Fun fact: I love building scalable systems & clean UI
+💡 I build **scalable SaaS platforms** and **AI-powered marketplaces** with clean architecture and production-ready code.
+
+- 🔭 Founder & Developer of **GigMatch-AI** (AI Freelancing Platform)  
+- 🌱 Working with **Next.js 16, React 19, Node.js, AI integrations**  
+- 🧠 Strong in **System Design, Role-based systems, Realtime apps**  
+- 👯 Open to collaborating on **Startups, SaaS & AI products**  
+- ⚡ Obsessed with **performance, clean UI & scalability**
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,postgres,redis,docker,aws,vercel,git&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manish9933&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=22c55e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish9933&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish9933&theme=transparent&hide_border=true&ring=38bdf8&fire=22c55e" />
 </p>
 
 ---
@@ -56,7 +62,16 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish9933&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manish9933/manish9933/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/manish9933/manish9933/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 
 ---
@@ -64,46 +79,64 @@
 ## 🚀 Featured Projects
 
 ### 🧠 GigMatch-AI
-AI powered freelancing marketplace  
-**Tech:** Next.js, React, Node, PostgreSQL, WebSockets, OpenAI
+AI-powered freelancing marketplace with role-based UI, real-time features & smart recommendations.
 
-### 💬 Real-time Chat System
-Scalable WebSocket based messaging platform
+**Tech:** Next.js, React, Node.js, PostgreSQL, Redis, WebSockets, OpenAI
 
-### 📊 Admin Dashboard
-Role based analytics dashboard with charts
+---
+
+### 💬 Realtime Chat Platform
+High-performance messaging system using WebSockets with presence & delivery tracking.
+
+---
+
+### 📊 Admin Analytics Dashboard
+Role-based dashboards with live metrics, charts & system monitoring.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced System Design
-- AI Agents
-- Microservices Architecture
-- Cloud Optimization (AWS)
+- Advanced System Design & Distributed Systems  
+- AI Agents & Automation  
+- Microservices Architecture  
+- AWS Cost Optimization & Scaling  
+
+---
+
+## 🏢 For Startups & Clients
+
+I help startups and businesses build:
+
+✅ AI-powered SaaS platforms  
+✅ Scalable web applications  
+✅ Real-time systems  
+✅ Secure role-based dashboards  
+✅ MVP → Production architecture  
+
+📩 Reach out via LinkedIn for collaborations.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manish-kangra-a53637288/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/manish-kangra-a53637288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Manish%20Kangra-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+  <a href="https://github.com/manish9933">
+    <img src="https://img.shields.io/badge/GitHub-manish9933-111827?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## ✨ Quote
+## ✨ Philosophy
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
-⭐️ From **Manish Kangra**
+<p align="center">
+  ⭐ Built by <b>Manish Kangra</b> | Building AI-first SaaS products
+</p>
