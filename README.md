@@ -87,7 +87,7 @@ Role based analytics dashboard with charts
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manish-kangra-a53637288/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/your-username">
